@@ -1,0 +1,16 @@
+.menu-ul {
+    list-style-type: none; 
+}
+
+.menu-ul li {
+    display: inline-block;
+}
+
+.menu-ul li a {
+    color: green;   
+    text-decoration: none;
+}
+
+.list-images {
+    list-style-image: url("../images/agry-bird-ico.png")
+}
